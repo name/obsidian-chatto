@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-chatto",
+	"id": "chatto",
 	"name": "Chatto",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Copilot for Obsidian",
+	"description": "Copilot for your notes",
 	"author": "cunjur",
 	"authorUrl": "https://char.blog",
 	"isDesktopOnly": true

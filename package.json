@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-chatto",
-	"version": "1.0.0",
-	"description": "Copilot for Obsidian",
+	"name": "chatto",
+	"version": "1.0.1",
+	"description": "Copilot for your notes",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
